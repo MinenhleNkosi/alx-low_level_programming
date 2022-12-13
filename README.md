@@ -240,7 +240,7 @@ You do not have to understand the call by reference (address), stack, static var
 
 Debugging is the process of finding and fixing errors in software that prevents it from running correctly. As you become a more advanced programmer and an industry engineer, you will learn how to use debugging tools such as **gdb** or built-in tools that IDEs have. However, it’s important to understand the concepts and processes of debugging manually.
 
-![duck pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/5/af682f2cbb6d73fd4e42.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221213T082826Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=07d440798007818a7342616275a8b4eaaabe6f5ec4f78cfa827472640fabacda)
+![duckpic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/5/af682f2cbb6d73fd4e42.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221213T082826Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=07d440798007818a7342616275a8b4eaaabe6f5ec4f78cfa827472640fabacda)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
