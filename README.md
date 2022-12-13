@@ -227,3 +227,44 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.
 
+# 0x03. C - Debugging
+
+![pic](https://alx-intranet.hbtn.io/images/challenge2022/get-started.jpg)
+
+## Resources
+
+**Read or watch:**
+
+- [Debugging](https://en.wikipedia.org/wiki/Debugging)
+- [Rubber Duck Debugging](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/)
+
+Debugging is the process of finding and fixing errors in software that prevents it from running correctly. As you become a more advanced programmer and an industry engineer, you will learn how to use debugging tools such as **gdb** or built-in tools that IDEs have. However, it’s important to understand the concepts and processes of debugging manually.
+
+![duck pic](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/5/af682f2cbb6d73fd4e42.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221213%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221213T082826Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=07d440798007818a7342616275a8b4eaaabe6f5ec4f78cfa827472640fabacda)
+
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
+
+### General
+
+- What is debugging
+- What are some methods of debugging manually
+- How to read the error messages
+
+### Copyright - Plagiarism
+
+- You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+- You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
+- You are not allowed to publish any content of this project.
+- Any form of plagiarism is strictly forbidden and will result in removal from the program.
+
+## Requirements
+### General
+
+- Allowed editors: **vi**, **vim**, **emacs**
+- All your files will be compiled on Ubuntu 20.04 LTS using **gcc**, using the options **-Wall -Werror -Wextra -pedantic -std=gnu89**
+- All your files should end with a new line
+- Your code should use the **Betty** style. It will be checked using **betty-style.pl** and **betty-doc.pl**
+- A **README.md** file at the root of the repo, containing a description of the repository
+- A **README.md** file, at the root of the folder of this project (i.e. **0x03-debugging**), describing what this project is about
+
