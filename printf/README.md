@@ -3,6 +3,13 @@ Foundations - Low-level programming & Algorithm ― Hatching out
 by Julien Barbier, co-founder at Holberton School.
 Project to be done in teams of 2 people (your team: Cristhiam Camilo Baquero Gomez, Camilo Bayona Orduz)
 
+### Concepts
+For this project, we expect you to look at these concepts:
+* [Group Projects](https://intranet.alxswe.com/concepts/111)
+* [Pair Programming - How To](https://intranet.alxswe.com/concepts/121)
+* [Flowcharts](https://intranet.alxswe.com/concepts/130)
+* [Technical Writing](https://intranet.alxswe.com/concepts/225)
+
 ## Background Context
 * Write your own `printf` function.
 
